@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,yBAEE,UAAW,CACX,eAAgB,CAChB,YAAa,CACb,WAAY,CACZ,WACF","file":"main.71484836.chunk.css","sourcesContent":[".login-form,\n.signup-form {\n  width: 100%;\n  max-width: 330px;\n  padding: 15px;\n  margin: auto;\n  height: 100%;\n}\n"]}
